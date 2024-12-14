@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZg4mikDF55mkSYgY1yiTOokdpcU4Ewwz4A37KKDvXvN4qoeeMmz6r2AzD71A0qXBaGzn1xnfY2rY1NB3m2p0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\mabruk\\CLI .NET\\FileBundler\\FileBundler\\union.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
