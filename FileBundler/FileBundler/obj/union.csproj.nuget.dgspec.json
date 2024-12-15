@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\mabruk\\CLI .NET\\FileBundler\\FileBundler\\union.csproj": {}
+    "C:\\Users\\user1\\Desktop\\שנה ג\\CLIproject\\FileBundler\\FileBundler\\union.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\mabruk\\CLI .NET\\FileBundler\\FileBundler\\union.csproj": {
+    "C:\\Users\\user1\\Desktop\\שנה ג\\CLIproject\\FileBundler\\FileBundler\\union.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\mabruk\\CLI .NET\\FileBundler\\FileBundler\\union.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\שנה ג\\CLIproject\\FileBundler\\FileBundler\\union.csproj",
         "projectName": "union",
-        "projectPath": "C:\\Users\\user1\\Desktop\\mabruk\\CLI .NET\\FileBundler\\FileBundler\\union.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\שנה ג\\CLIproject\\FileBundler\\FileBundler\\union.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\mabruk\\CLI .NET\\FileBundler\\FileBundler\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\שנה ג\\CLIproject\\FileBundler\\FileBundler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
